@@ -8,4 +8,4 @@ Installable without internet connection.
 
 **How to install?**
 
-Just unzip the folder and - administrator rights required - double-click setup.bat .
+Just unzip the folder, then right click - Run as administrator - on  **setup.bat**

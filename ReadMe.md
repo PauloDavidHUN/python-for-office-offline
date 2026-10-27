@@ -9,7 +9,7 @@ Installable without internet connection.
 
 **How to install?**
 
-Just unzip the folder, then right click - Run as administrator - on  **setup.bat**
+-double click on the exe file and the installation will be done automatically
 
 HUN:
 
@@ -17,7 +17,5 @@ Internetelérés nélkül telepíthető (tűzfalmentes) python csomag irodai bő
 
 **Telepítés:**
 
--csomagold ki a tömörített mappát 
--jobb klikk a **setup.bat** fájlon
--futtatás rendszergazdaként
+-dupla klikk az exe fájlra és automatikusan lefut a telepítés
 
